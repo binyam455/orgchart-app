@@ -3,7 +3,7 @@ This application provides a way for creating an organization chart to display em
 PREREQUISITE
 
 An API server is required for data access and manipulation which is provided by the API server application
-called "orgchart-api" (link) which must be installed and run before executing this application
+called "orgchart-api" (https://github.com/binyam455/orgchart-api) which must be installed and run before executing this application
 
 INSTALLATION
 
