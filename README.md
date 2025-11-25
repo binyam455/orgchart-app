@@ -25,4 +25,4 @@ c. Hovering on a node displays "Add", "Edit", "Delete" and "Info" icons. Click o
 
     Delete (trashcan icon) - this deletes the selected node and all its children
 
-    Info ("i" icon) - this displays the "manager", "name" and "description" of a selected node
+    Info ("i" icon) - this displays the "name", "description" and "manager" of a selected node
