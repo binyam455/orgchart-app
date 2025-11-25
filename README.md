@@ -1,6 +1,7 @@
 This application provides a way for creating an organization chart to display employee/manager relationships for a company
 
 PREREQUISITE
+
 An API server is required for data access and manipulation which is provided by the API server application
 called "orgchart-api" (link) which must be installed and run before executing this application
 
